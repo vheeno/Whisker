@@ -3,6 +3,11 @@
 Whisker is a chef's best friend in the form of an iOS app. With Whisker, you can easily import recipes through just a link, scale ingredients, and convert measurements to your heart's desire. 
 
 Started cooking and realized you're short on milk or eggs simply running low in stock lately? Whisker will help you adjust your recipe accordingly and also help you plan your future grocery shopping trips. Whether you're looking to save all your recipes in one place or wanting an app to help take the math out of cooking, Whisker's got the answer to your kitchen questions.
+
+<img src="https://github.com/user-attachments/assets/2ef81b43-d315-453d-ad9d-1d5b60d17322" width="250">
+<img src="https://github.com/user-attachments/assets/47b6168e-15fc-4677-9022-66108a42a55d" width="250">
+<img src="https://github.com/user-attachments/assets/aa061ec0-ca08-4028-afbb-c7a0f80ee2c4" width="250">
+
 ## ✨ Features
 
 ### Recipe Management
@@ -19,6 +24,9 @@ Started cooking and realized you're short on milk or eggs simply running low in 
 ### User Experience
 - **Multiple Authentication Methods** - Sign in with email/password, Google, or Facebook
 - **Intuitive UI** - Clean, modern interface with tab-based navigation
+
+<img src="https://github.com/user-attachments/assets/f8a37964-0454-4c6a-aafc-b7afb70a8733" width="250">
+<img src="https://github.com/user-attachments/assets/ba847402-3a88-4863-8ffa-fcc24d262351" width="250">
 
 ## 🔧 Technologies Used
 
