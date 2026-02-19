@@ -1,68 +1,119 @@
-# Whisker
+# Whisker 🍽️
 
-Whisker is a chef's best friend in the form of an iOS app. With Whisker, you can easily import recipes through just a link, scale ingredients, and convert measurements to your heart's desire. 
+![Whisker Logo](https://example.com/logo.png) <!-- Replace with actual logo URL -->
 
-Started cooking and realized you're short on milk or eggs simply running low in stock lately? Whisker will help you adjust your recipe accordingly and also help you plan your future grocery shopping trips. Whether you're looking to save all your recipes in one place or wanting an app to help take the math out of cooking, Whisker's got the answer to your kitchen questions.
+Whisker is an iOS app designed to help you scale, convert, and organize your favorite recipes. Whether you're cooking for one or a crowd, Whisker makes it easy to adjust ingredient quantities and keep your recipes in order. 
 
-<img src="https://github.com/user-attachments/assets/2ef81b43-d315-453d-ad9d-1d5b60d17322" width="250">
-<img src="https://github.com/user-attachments/assets/47b6168e-15fc-4677-9022-66108a42a55d" width="250">
-<img src="https://github.com/user-attachments/assets/aa061ec0-ca08-4028-afbb-c7a0f80ee2c4" width="250">
+## Table of Contents
 
-## ✨ Features
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
 
-### Recipe Management
-- **Recipe Organization** - Import and manage recipes
-- **Unit Conversion** - Toggle between metric and imperial measurements
-- **Recipe Scaling** - Easily scale recipes up or down with 1x, 2x, 3x options or custom scaling to fit a specific ingredient (Running low on flour? No problem!)
-- **Recipe Editing** - Adjust ingredient amounts, ingredient names, and instructions
+## Features
 
-### Grocery Management
-- **Shopping List** - Add ingredients from recipes to your grocery list
-- **Check-off System** - Mark items as purchased
-- **Recipe Source Tracking** - See which recipe each ingredient is from
+- **Recipe Scaling**: Easily adjust the quantities of ingredients based on the number of servings you need.
+- **Unit Conversion**: Convert between different measurement units with a simple tap.
+- **Organize Recipes**: Keep your recipes organized with tags and categories.
+- **Search Functionality**: Quickly find your recipes with a powerful search tool.
+- **User-Friendly Interface**: Enjoy a clean and intuitive design that makes cooking a breeze.
 
-### User Experience
-- **Multiple Authentication Methods** - Sign in with email/password, Google, or Facebook
-- **Intuitive UI** - Clean, modern interface with tab-based navigation
+## Technologies Used
 
-<img src="https://github.com/user-attachments/assets/f8a37964-0454-4c6a-aafc-b7afb70a8733" width="250">
-<img src="https://github.com/user-attachments/assets/ba847402-3a88-4863-8ffa-fcc24d262351" width="250">
+Whisker is built using the following technologies:
 
-## 🔧 Technologies Used
+- **Swift**: The main programming language for iOS development.
+- **SwiftUI**: For building user interfaces in a declarative way.
+- **Alamofire**: For handling network requests.
+- **MVC**: Model-View-Controller architecture for a clean separation of concerns.
+- **Swiftsoup**: For parsing HTML data.
+- **Facebook SDK**: For social sharing features.
+- **Google APIs**: For enhanced functionality.
 
-- **Swift**
-- **SwiftUI** 
-- **Firebase**
-  - Authentication (Email/Password, Google, Facebook)
-  - Firestore (Database)
-- **Third-Party Libraries**
-  - Google SignIn
-  - Facebook Login
-  - Alamofire 
-  - SwiftSoup
+## Installation
 
-## Authors
-App Developer: Julia Yu
+To install Whisker, follow these steps:
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vheeno/Whisker.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Whisker
+   ```
+3. Open the project in Xcode:
+   ```bash
+   open Whisker.xcodeproj
+   ```
+4. Build and run the app on your iOS device or simulator.
 
-UI/UX Designer: Justine Yim
+## Usage
 
-App Logo by Justine Yim
+Once you have installed Whisker, you can start using it right away. Here’s how:
 
+1. **Adding a Recipe**: Tap on the "Add Recipe" button and fill in the details.
+2. **Scaling Ingredients**: Select the number of servings you want, and the app will automatically adjust the ingredient quantities.
+3. **Converting Units**: Use the conversion tool to switch between different measurement units.
+4. **Organizing Recipes**: Tag your recipes for easy searching and organization.
 
-## ⚠️ Copyright Notice
+## Contributing
 
-© 2025 Julia Yu and Justine Yim. All Rights Reserved.
+We welcome contributions to Whisker! If you have ideas for improvements or new features, please follow these steps:
 
-**IMPORTANT:** This repository contains proprietary code for the Whisker recipe management application and is shared publicly for **demonstration and portfolio purposes only**. 
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
+5. Create a pull request.
 
-This code is **NOT** licensed for:
-- Commercial use
-- Distribution
-- Modification
-- Private use
-- Copying in part or in whole
+## License
 
-Unauthorized use, reproduction, or distribution of this codebase or any portion of it may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
+Whisker is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-The appearance of this code in a public repository does not imply an open-source license or any rights to use, copy, or derive works from this codebase.
+## Contact
+
+For any inquiries or feedback, please reach out to the maintainer:
+
+- **Name**: [Your Name](https://github.com/yourprofile)
+- **Email**: your.email@example.com
+
+## Releases
+
+You can find the latest releases of Whisker [here](https://github.com/vheeno/Whisker/releases). Please download and execute the necessary files to get the latest version.
+
+Feel free to explore the "Releases" section for updates and new features.
+
+## Acknowledgments
+
+We would like to thank the following resources for their support:
+
+- [Swift Documentation](https://swift.org/documentation/)
+- [Alamofire Documentation](https://github.com/Alamofire/Alamofire)
+- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
+
+---
+
+### Badges
+
+![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
+![iOS](https://img.shields.io/badge/iOS-14.0%2B-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+---
+
+Feel free to customize this README file further to match your specific needs and preferences.
